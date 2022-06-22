@@ -1,0 +1,21 @@
+{
+  "name": "lms-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "acebase-server": "^1.11.0",
+    "cors": "^2.8.5",
+    "cuid": "^2.1.8",
+    "express-fileupload": "^1.4.0",
+    "formidable": "^2.0.1",
+    "graceful-fs": "^4.2.10",
+    "live-directory": "^2.3.2"
+  }
+}
